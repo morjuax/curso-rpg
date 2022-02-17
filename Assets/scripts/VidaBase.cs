@@ -28,6 +28,7 @@ public class VidaBase : MonoBehaviour
             if (Salud <= 0f)
             {
                 ActualizarBarraVida(Salud, saludMax);
+                PersonajeDerratado();
             }
         }
     }
