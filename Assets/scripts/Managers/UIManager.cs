@@ -33,7 +33,10 @@ public class UIManager : Singleton<UIManager>
     [SerializeField] private TextMeshProUGUI statNivelTMP;
     [SerializeField] private TextMeshProUGUI statExpTMP;
     [SerializeField] private TextMeshProUGUI statExpRequeridaTMP;
-    
+    [SerializeField] private TextMeshProUGUI atributoFuerzaTMP;
+    [SerializeField] private TextMeshProUGUI atributoInteligenciaTMP;
+    [SerializeField] private TextMeshProUGUI atributoDestrezaTMP;
+    [SerializeField] private TextMeshProUGUI atributosDisponiblesTMP;
 
     private float _vidaActual;
     private float _vidaMax;
@@ -76,6 +79,11 @@ public class UIManager : Singleton<UIManager>
         statNivelTMP.text = stats.Nivel.ToString();
         statExpTMP.text = stats.ExpActual.ToString();
         statExpRequeridaTMP.text = stats.ExpRequeridaSiguienteNivel.ToString();
+        
+        atributoFuerzaTMP.text = stats.Fuerza.ToString();
+        atributoInteligenciaTMP.text = stats.Inteligencia.ToString();
+        atributoDestrezaTMP.text = stats.Destreza.ToString();
+        atributosDisponiblesTMP.text = $"Puntos: {stats.PuntosDisponibles}";
     }
     
 

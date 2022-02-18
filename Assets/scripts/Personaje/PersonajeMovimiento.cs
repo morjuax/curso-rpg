@@ -60,6 +60,6 @@ public class PersonajeMovimiento : MonoBehaviour
 
     private void FixedUpdate()
     {
-        _rigidbody2D.MovePosition(_rigidbody2D.position + _direccionMovimiento * velocidad * Time.fixedDeltaTime);   
+        _rigidbody2D.MovePosition(_rigidbody2D.position + _direccionMovimiento * velocidad * Time.fixedDeltaTime);
     }
 }
