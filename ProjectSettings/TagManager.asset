@@ -44,6 +44,18 @@ TagManager:
   - name: Tilemap_Piso
     uniqueID: 144100315
     locked: 0
+  - name: Tilemap_limite
+    uniqueID: 1366288307
+    locked: 0
+  - name: Tilemap_arboles
+    uniqueID: 2752924039
+    locked: 0
+  - name: Tilempa_Casa
+    uniqueID: 1189185661
+    locked: 0
+  - name: Tilempa_props
+    uniqueID: 3742380881
+    locked: 0
   - name: Personaje
     uniqueID: 760137989
     locked: 0
