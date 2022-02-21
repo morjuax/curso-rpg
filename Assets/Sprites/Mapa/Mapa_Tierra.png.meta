@@ -335,7 +335,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mapa_Tierra_11
+      name: TerrenoClaro
       rect:
         serializedVersion: 2
         x: 16
@@ -1133,7 +1133,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mapa_Tierra_49
+      name: tierraNaranja_1
       rect:
         serializedVersion: 2
         x: 0
@@ -1154,7 +1154,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mapa_Tierra_50
+      name: tierraNaranja_2
       rect:
         serializedVersion: 2
         x: 16
@@ -1175,7 +1175,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mapa_Tierra_51
+      name: tierraNaranja_3
       rect:
         serializedVersion: 2
         x: 32
@@ -1196,7 +1196,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mapa_Tierra_52
+      name: tierraNaranja_4
       rect:
         serializedVersion: 2
         x: 48
@@ -1217,7 +1217,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mapa_Tierra_53
+      name: tierraNaranja_5
       rect:
         serializedVersion: 2
         x: 64
@@ -2554,15 +2554,16 @@ TextureImporter:
       Mapa_Tierra_105: 596955495
       Mapa_Tierra_3: 1845465273
       Mapa_Tierra_27: 1952213811
+      tierraNaranja_2: 135409838
       Mapa_Tierra_24: -1115347823
       Mapa_Tierra_89: -554493305
       Mapa_Tierra_33: 1325002719
-      Mapa_Tierra_11: 1370724386
       Mapa_Tierra_6: 1434878960
       Mapa_Tierra_4: -469058063
       Mapa_Tierra_107: 1601976090
       Mapa_Tierra_86: -1366220525
       Mapa_Tierra_93: 318187369
+      TerrenoClaro: 1370724386
       Mapa_Tierra_10: 1597354662
       Mapa_Tierra_57: 1608672132
       Mapa_Tierra_85: -1071414995
@@ -2575,9 +2576,10 @@ TextureImporter:
       Mapa_Tierra_14: 167132709
       Mapa_Tierra_16: -1431812888
       Mapa_Tierra_100: 1223617261
-      Mapa_Tierra_95: -869942686
+      tierraNaranja_3: 328514859
       Mapa_Tierra_46: -1284976010
       Mapa_Tierra_97: -1429133521
+      Mapa_Tierra_95: -869942686
       Mapa_Tierra_65: -1154976406
       Mapa_Tierra_7: -1537258834
       Mapa_Tierra_28: 2147147429
@@ -2589,6 +2591,7 @@ TextureImporter:
       Mapa_Tierra_71: 698601747
       Mapa_Tierra_34: 1322427300
       Mapa_Tierra_36: 1913014709
+      tierraNaranja_1: 1531324949
       Mapa_Tierra_35: 970434249
       Pasto_4: -992625402
       Mapa_Tierra_18: -845108796
@@ -2606,6 +2609,7 @@ TextureImporter:
       Mapa_Tierra_80: -1003427494
       Mapa_Tierra_59: 485819376
       Mapa_Tierra_82: -1435469048
+      tierraNaranja_5: -1551576858
       Mapa_Tierra_61: -243308763
       Mapa_Tierra_83: 1173272419
       Mapa_Tierra_67: -1915459365
@@ -2616,6 +2620,7 @@ TextureImporter:
       Mapa_Tierra_9: 1182507160
       Mapa_Tierra_20: 625744139
       Mapa_Tierra_30: 1350589639
+      tierraNaranja_4: 497612860
       Mapa_Tierra_109: 922773296
       Mapa_Tierra_94: -909683987
       Mapa_Tierra_110: 1157189316
@@ -2624,8 +2629,6 @@ TextureImporter:
       Mapa_Tierra_25: -1587245308
       Pasto_2: 1700769270
       Mapa_Tierra_54: 1407629365
-      Mapa_Tierra_51: 328514859
-      Mapa_Tierra_50: 135409838
       Mapa_Tierra_5: 1797215024
       Mapa_Tierra_29: -1550805162
       Mapa_Tierra_12: 716255014
@@ -2648,10 +2651,7 @@ TextureImporter:
       Mapa_Tierra_62: 257410626
       Mapa_Tierra_32: 593926155
       Mapa_Tierra_77: -1631383073
-      Mapa_Tierra_49: 1531324949
-      Mapa_Tierra_52: 497612860
       Mapa_Tierra_63: 711012718
-      Mapa_Tierra_53: -1551576858
       Mapa_Tierra_48: 1326546953
       Mapa_Tierra_0: 925887810
       Mapa_Tierra_42: 525767113
